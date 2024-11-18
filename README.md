@@ -2,6 +2,8 @@
 
 This repository contains a vehicle detection and counting project utilizing advanced computer vision techniques, specifically YOLO models implemented with the ultralytics library. The project aims to detect vehicles in images or video feeds and count them accurately.
 
+Google Collab Link: https://colab.research.google.com/drive/1A2VegJfvmvMj-HmbpFPcvCDR_N40QByC?usp=sharing
+
 # Contents
 
 Codebase: Scripts for data processing, model training, and inference using YOLO.
